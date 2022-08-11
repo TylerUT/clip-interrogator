@@ -1,0 +1,59 @@
+Landscape
+Still Life
+Food
+Beverage
+Vehicle
+Building
+Product Design
+Portrait
+Animal
+Multi Person Scene
+Texture
+Icon
+Logo
+Abstract
+Intangible
+Text
+Complex
+A Known Artist
+Made Of
+Drawing/ Art Medium
+Art Movement
+Palette
+Color Style
+Film Type
+-punk 
+-core
+Low fidelity
+Quantity of X
+Quantity of X & Y
+Grid of X
+Diversity of Personhood
+Preposition of Location
+Fake Words in Prompt
+Emoji in Prompt
+World Knowledge
+Celebrity Representation
+NSFW Circumvent
+Negation
+Description of painting
+Ditransitive
+Garden Path Sentence
+Contained Focus
+Unlikely Style
+Unlikely Perspective
+Body Part
+Flipped Color
+Flipped Size
+Flipped Material
+Flipped Style
+Flipped Shape
+Upside Down
+Symmetry 
+interior exterior perspective
+style as a single element
+anthromorphized animal
+two animals- no blending
+two hard surface - no blending
+Direct Copyright 
+Indirect Copyright
